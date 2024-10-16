@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller files
+build/
+dist/
+*.spec
+
+# Virtual environment
+venv/
+env/
+env.bak/
+.venv/
+
+# Miscellaneous
+*.egg-info/
+*.egg
+*.pdb
+*.db
+*.sqlite3
+*.log
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
